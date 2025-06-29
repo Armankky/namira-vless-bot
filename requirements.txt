@@ -1,0 +1,4 @@
+aiogram==3.4.1
+telethon==1.34.0
+ping3==4.0.4
+ipinfo==4.0.2
